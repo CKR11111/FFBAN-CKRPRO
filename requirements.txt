@@ -1,0 +1,4 @@
+Flask
+requests
+pycryptodome
+protobuf==5.26.1
